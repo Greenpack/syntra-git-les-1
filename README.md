@@ -21,11 +21,9 @@ print(len(naam))
 ```
 # String-methodes
 
-|Methode | Beschrijving|
-------------------------
-|`.upper()`|Hoofdletters|
--------------------------
+|Methode   | Beschrijving |
+|----------|--------------|
+|`.upper()`|Hoofdletters  |
 |`.lower()`|Kleine letters|
----------------------------
 
 Meer info [Python documentatie](https://docs.python.org/3/library/stdtypes.html#string-methods)
