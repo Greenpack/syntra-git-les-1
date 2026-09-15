@@ -14,11 +14,18 @@ Een **string** is een reeks tekens die je gebruikt om tekst op te slaan, zoals `
 * lengte opvragen met `len()`
 * *Slicing* om een deel op te vragen
 
-```
+```python
 naam = "Phyton"
 print("Hallo, " + naam)
 print(len(naam))
 ```
+# String-methodes
 
+|Methode | Beschrijving|
+------------------------
+|`.upper()`|Hoofdletters|
+-------------------------
+|`.lower()`|Kleine letters|
+---------------------------
 
-this is the readme of the first syntra lesson 
+Meer info [Python documentatie](https://docs.python.org/3/library/stdtypes.html#string-methods)
